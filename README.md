@@ -1,11 +1,11 @@
 PREDICTING HOUSE PRICES WITH MACHINE LEARNING
 
-This project was focused on looking at key parameters which may help with a focus on our local market (Charlotte City, NC).
+This project was focused on looking at key parameters which may help determine home values with a focus on our local market (Charlotte City, NC).
 To avoid bias on data, we started with Charlotte NC and proceeded to include nine other Cities in deferent States; Boston MA, Atlanta GA, Chicago IL, Portland OR, Williamsburg VA, Cookeville TN, Waterloo IA, St Augustine FL, and Santa Fe NM.
 
 ETL: 
 
-•	Utilized Quandl and Zillow historical data dating back 25years (1995-2020) for most cities.
+•	Utilized Quandl and Zillow historical data dating back 25years (1995-2020) for most Cities.
 
 •	Pulled Separate JSON files for each City and converted to CSV files.
 
