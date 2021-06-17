@@ -1,10 +1,16 @@
 PREDICTING HOUSE PRICES WITH MACHINE LEARNING
+
 This project was focused on looking at key parameters which may help with a focus on our local market (Charlotte City, NC).
 To avoid bias on data, we started with Charlotte NC and proceeded to include nine other Cities in deferent States; Boston MA, Atlanta GA, Chicago IL, Portland OR, Williamsburg VA, Cookeville TN, Waterloo IA, St Augustine FL, and Santa Fe NM.
+
 ETL: 
+
 •	Utilized Quandl and Zillow historical data dating back 25years (1995-2020) for most cities.
+
 •	Pulled Separate JSON files for each City and converted to CSV files.
+
 •	Uploaded the CSV files into MongoDb as one database.
+
 •	Utilized Tableau for Visualization and Prediction of home values for each City over the next 5 years (2020-2025). https://public.tableau.com/authoring/FinalProject3Updated2/Dashboard1#1
 FINDINGS:
 Analysis of nearly 25 years of data for 10 Cities shows:
