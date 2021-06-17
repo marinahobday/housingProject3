@@ -27,7 +27,7 @@ Analysis of nearly 25 years of data for 10 Cities shows:
 
 MODEL ACCURACY AND VALIDITY:
 
-●	We tested the Accuracy and validity of the trained model using the Deep Neural Network. The model was not overfitting and therefore concluded as Accurate and Valid.
+●	We tested the Accuracy and validity of the trained model using the Deep Neural Network. The model was not overfitting and therefore was concluded as Accurate and Valid.
 
 ●	Margin of Error of Average Projected (2025) Home values, is representative of the R2 Score.  
 
